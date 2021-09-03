@@ -1,4 +1,5 @@
 version: "3.8"
+
 services:
   nodered:
     image: nodered/node-red:latest-10
